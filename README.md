@@ -1,7 +1,7 @@
 # Blender-Render
 This repository is for rendering blender scenes or stills in a .png format via a Google Colab notebook. 
 
-For you to successfully render you must:
+_For you to successfully render you must:_
 
 1. Create a new file in your GDrive titled "Blender".
 
@@ -21,6 +21,6 @@ For you to successfully render you must:
 8. All you need to do now is press the play button for each consecutive piece of code.
 
 
-If you find error messages look at your file destinations, or if there any syntax errors.
-
+_If you find error messages look at your file destinations, or if there any syntax errors.
 If there are syntax errors, restart the notebook.
+_
