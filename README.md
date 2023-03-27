@@ -22,5 +22,5 @@ _For you to successfully render you must:_
 
 
 _If you find error messages look at your file destinations, or if there any syntax errors.
-If there are syntax errors, restart the notebook.
-_
+If there are syntax errors, restart the notebook._
+
