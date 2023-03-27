@@ -1,5 +1,5 @@
 # Blender-Render
-This repository is for rendering blender scenes or stills in a .png format via a Google Colab notebook. 
+**This repository is for rendering blender scenes or stills in a .png format via a Google Colab notebook. **
 
 _For you to successfully render you must:_
 
