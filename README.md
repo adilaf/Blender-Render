@@ -2,6 +2,7 @@
 This repository is for rendering blender scenes or stills in a .png format via a Google Colab notebook. 
 
 For you to successfully render you must:
+
     1. Create a new file in your GDrive titled "Blender".
     2. Create a subfolder titled "Output" in the "Blender" file.
     2. Upload your .blend file to the "Blender" folder you've just created.
